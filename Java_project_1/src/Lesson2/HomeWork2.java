@@ -31,7 +31,7 @@ public class HomeWork2 {
 
     private static void  printSpecifiedNumberOfTimes(String word, int count) {
         System.out.println("--------------------------------\n 4 задание");
-        for (int c = 0; c <= count; c++) {
+        for (int c = 1; c <= count; c++) {
             System.out.println(word);
         }
     }

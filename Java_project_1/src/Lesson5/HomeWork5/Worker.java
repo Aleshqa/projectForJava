@@ -26,6 +26,6 @@ public class Worker {
     }
 
     public void printWorkersInfo() {
-        System.out.println("Фамилия |" + fullName + "| Возраст " + age + "| Почта " + email + "| Телефон " + phone + "| Зарплата " + salary + "| Должность " + post + "|");
+        System.out.println("Фамилия - " + fullName + "| Возраст - " + age + "| Почта - " + email + "| Телефон - " + phone + "| Зарплата - " + salary + "| Должность - " + post + "|");
     }
 }

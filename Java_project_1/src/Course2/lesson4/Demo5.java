@@ -1,4 +1,4 @@
-package ru.geekbrains.qa.java2.lesson4;
+package Course2.lesson4;
 
 import java.util.*;
 import java.util.stream.Collectors;
